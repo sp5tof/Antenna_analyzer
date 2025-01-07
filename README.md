@@ -5,3 +5,7 @@ This is antenna analyzer project based on Jim KW4KD version. I added :
 - rechargeable accumulators based on cellphone’s battery
 - support for popular TFT 1.8″ ST7735 display
 
+Updates:
+
+Harrie PE1JXI has provided improved PCB version of HF part (HF_PART_HARRIE)
+and also SMD version (
