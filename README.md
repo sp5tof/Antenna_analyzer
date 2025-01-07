@@ -8,4 +8,7 @@ This is antenna analyzer project based on Jim KW4KD version. I added :
 Updates:
 
 Harrie PE1JXI has provided improved PCB version of HF part (HF_PART_HARRIE)
-and also SMD version (
+and also SMD version (HF_part_SMD_version)
+Thanks !
+
+More informations can be found at http://sp5tof.qrz.pl
