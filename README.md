@@ -13,6 +13,5 @@ Thanks !
 
 More informations can be found at http://sp5tof.qrz.pl
 
-![image](https://github.com/user-attachments/assets/5293043f-eea0-49ba-bcc5-d1b68fccc3c3)
+![image](https://github.com/user-attachments/assets/28a30f0d-31c9-4cb4-9c9e-b1ff0e5c9fb7)
 
-![image](https://github.com/user-attachments/assets/01de8a30-0fcf-4036-be75-fa69d50bb840)
