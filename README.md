@@ -12,3 +12,7 @@ and also SMD version (HF_part_SMD_version)
 Thanks !
 
 More informations can be found at http://sp5tof.qrz.pl
+
+![image](https://github.com/user-attachments/assets/5293043f-eea0-49ba-bcc5-d1b68fccc3c3)
+
+![image](https://github.com/user-attachments/assets/01de8a30-0fcf-4036-be75-fa69d50bb840)
